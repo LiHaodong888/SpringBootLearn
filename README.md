@@ -1,6 +1,6 @@
 # SpringBootLearn
 Spring Boot教程
-转载请标明出处： 原文首发于：https://www.lhdyx.cn 本文出自李浩东的博客
+转载请标明出处： 原文首发于：https://www.lhdyx.cn 本文出自李浩东的博客  欢迎star
 ![公众号二维码](https://static.lhdyx.cn/images/qrcode.jpg)
 
 扫一扫 支持下作者 谢谢
