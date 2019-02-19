@@ -16,5 +16,5 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 # 配置篇
 [SpringBoot详细教程 | 第二篇：Spring Boot配置文件详解](https://www.lhdyx.cn/article/55)
 # 数据库篇
-[SpringBoot详细教程 | 第三篇：Spring Boot整合Mybatis](https://www.lhdyx.cn/article/56)
+[SpringBoot详细教程 | 第三篇：Spring Boot整合Mybatis](https://www.lhdyx.cn/article/56)  
 [SpringBoot详细教程 | 第四篇：Spring Boot开启声明式事务](https://www.lhdyx.cn/article/57)
