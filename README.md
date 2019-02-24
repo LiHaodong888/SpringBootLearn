@@ -21,4 +21,7 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 [SpringBoot详细教程 | 第五篇：Spring Boot整合Redis](https://www.lhdyx.cn/article/58)  
 [SpringBoot详细教程 | 第六篇：Spring Boot整合Mongdb](https://www.lhdyx.cn/article/59)
 # Web开发
-[SpringBoot详细教程 | 第七篇：Spring Boot集成swagger2，构建优雅的Restful API](https://www.lhdyx.cn/article/60)
+[SpringBoot详细教程 | 第七篇：Spring Boot集成swagger2，构建优雅的Restful API](https://www.lhdyx.cn/article/60)  
+[SpringBoot详细教程 | 第八篇：Spring Boot整合restTemplate消费服务](https://www.lhdyx.cn/article/61)
+# 消息服务
+[SpringBoot详细教程 | 第九篇：Spring Boot整合Redis简单实现消息队列](https://www.lhdyx.cn/article/62)
