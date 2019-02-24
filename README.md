@@ -25,5 +25,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 [SpringBoot详细教程 | 第八篇：Spring Boot整合restTemplate消费服务](https://www.lhdyx.cn/article/61)
 # 消息服务
 [SpringBoot详细教程 | 第九篇：Spring Boot整合Redis简单实现消息队列](https://www.lhdyx.cn/article/62)
+[SpringBoot详细教程 | 第十篇：Spring Boot整合RabbitMQ](https://www.lhdyx.cn/article/64)
 # 邮箱发送
-[SpringBoot详细教程 | 第十篇：Spring Boot中使用JavaMailSender实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](https://www.lhdyx.cn/article/63)
+[SpringBoot详细教程 | 第十一篇：Spring Boot中使用JavaMailSender实现邮件发送：简单邮件、附件邮件、嵌入资源的邮件、模板邮件](https://www.lhdyx.cn/article/63)
