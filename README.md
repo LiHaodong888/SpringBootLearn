@@ -31,4 +31,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 # 定时任务和异步任务
 [SpringBoot详细教程 | 第十三篇：Spring Boot定时任务](https://www.lhdyx.cn/article/66)  
 [SpringBoot详细教程 | 第十四篇：Spring Boot使用@Async实现异步调用,线程池以及Future的使用](https://www.lhdyx.cn/article/65)
+# 整合分布式
+[SpringBoot详细教程 | 第十五篇：Spring Boot整合gRPC](https://www.lhdyx.cn/article/67)
 
