@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="grpc-client" />
+        <module name="grpc-server" />
+        <module name="lib-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="grpc-client" options="-parameters" />
+      <module name="grpc-server" options="-parameters" />
+      <module name="lib-server" options="-parameters" />
+      <module name="springbootgrpc" options="-parameters" />
+    </option>
+  </component>
+</project>
