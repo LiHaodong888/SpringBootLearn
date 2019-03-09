@@ -33,4 +33,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 [SpringBoot详细教程 | 第十四篇：Spring Boot使用@Async实现异步调用,线程池以及Future的使用](https://www.lhdyx.cn/article/65)
 # 整合分布式
 [SpringBoot详细教程 | 第十五篇：Spring Boot整合gRPC](https://www.lhdyx.cn/article/67)
+# 模板引擎
+[SpringBoot详细教程 | 第十六篇：Spring Boot整合Thymeleaf模板引擎开发Web应用](https://www.lhdyx.cn/article/72)
 
