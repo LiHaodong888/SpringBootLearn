@@ -23,8 +23,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 # Web开发
 [SpringBoot详细教程 | 第七篇：Spring Boot集成swagger2，构建优雅的Restful API](https://www.lhdyx.cn/article/60)  
 [SpringBoot详细教程 | 第八篇：Spring Boot整合restTemplate消费服务](https://www.lhdyx.cn/article/61)
-# 模板引擎
-[SpringBoot详细教程 | 第十六篇：Spring Boot整合Thymeleaf模板引擎开发Web应用](https://www.lhdyx.cn/article/72)
 # 消息服务
 [SpringBoot详细教程 | 第九篇：Spring Boot整合Redis简单实现消息队列](https://www.lhdyx.cn/article/62)  
 [SpringBoot详细教程 | 第十篇：Spring Boot整合RabbitMQ](https://www.lhdyx.cn/article/64)
@@ -35,4 +33,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 [SpringBoot详细教程 | 第十四篇：Spring Boot使用@Async实现异步调用,线程池以及Future的使用](https://www.lhdyx.cn/article/65)
 # 整合分布式
 [SpringBoot详细教程 | 第十五篇：Spring Boot整合gRPC](https://www.lhdyx.cn/article/67)
+# 模板引擎
+[SpringBoot详细教程 | 第十六篇：Spring Boot整合Thymeleaf模板引擎开发Web应用](https://www.lhdyx.cn/article/72)
 
