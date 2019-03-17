@@ -36,4 +36,6 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 # 模板引擎
 [SpringBoot详细教程 | 第十六篇：Spring Boot整合Thymeleaf模板引擎开发Web应用](https://www.lhdyx.cn/article/72)  
 [SpringBoot详细教程 | 第十七篇：Spring Boot整合FreeMarker模板引擎开发Web应用](https://www.lhdyx.cn/article/74)
+# 安全权限
+[Spring Boot整合实战Spring Security JWT权限鉴权系统](https://www.lhdyx.cn/article/76)
 
