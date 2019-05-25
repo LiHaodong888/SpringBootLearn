@@ -24,7 +24,7 @@ public class UserController {
     private static Map<Long, User> users = Collections.synchronizedMap(new HashMap<Long, User>());
 
     @ApiOperation(value="获取用户列表", notes="")
-    @GetMapping
+    @GetMappingd
     public List<User> getUserList() {
         return new ArrayList<User>(users.values());
     }
