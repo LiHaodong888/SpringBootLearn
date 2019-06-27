@@ -10,7 +10,7 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 
 源码下载：https://github.com/LiHaodong888/SpringBootLearn,谢谢支持，记得star哦。
 
-欢迎访问我的个人博客：https://www.lhdyx.cn
+欢迎访问我的个人博客：https://www.52lhd.com
 # 入门篇
 [SpringBoot详细教程 | 第一篇：构建第一个Spring Boot工程](https://www.lhdyx.cn/article/54)
 # 配置篇
