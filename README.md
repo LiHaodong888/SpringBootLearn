@@ -1,7 +1,7 @@
 # SpringBootLearn
 Spring Boot教程
-转载请标明出处： 原文首发于：https://www.lhdyx.cn 本文出自李浩东的博客  欢迎star
-![公众号二维码](https://static.lhdyx.cn/images/qrcode.jpg)
+转载请标明出处： 原文首发于：https://www.52lhd.com 本文出自李浩东的博客  欢迎star
+![公众号二维码](https://gitee.com/li_haodong/picture_management/raw/master/pic/qrcode_for_gh_99ee464aac4f_258.jpg)
 
 扫一扫 支持下作者 谢谢
 
@@ -10,7 +10,7 @@ springboot详细教程，大多数案例都来自于官方文档，和看到网�
 
 源码下载：https://github.com/LiHaodong888/SpringBootLearn,谢谢支持，记得star哦。
 
-欢迎访问我的个人博客：https://www.lhdyx.cn
+欢迎访问我的个人博客：https://www.52lhd.com
 # 入门篇
 [SpringBoot详细教程 | 第一篇：构建第一个Spring Boot工程](https://www.lhdyx.cn/article/54)
 # 配置篇
