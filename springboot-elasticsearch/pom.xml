@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <elasticSearch.version>6.2.1</elasticSearch.version>
+        <elasticSearch.version>7.11.2</elasticSearch.version>
     </properties>
 
     <dependencies>
